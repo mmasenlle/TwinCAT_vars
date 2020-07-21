@@ -1,4 +1,4 @@
-IDI_ICON1               ICON    DISCARDABLE     "ik4.ico"
+IDI_ICON1               ICON    DISCARDABLE     "icon.ico"
 1 VERSIONINFO
 FILEVERSION 2,0,0,1
 PRODUCTVERSION 0,0,0,1
@@ -9,11 +9,11 @@ BEGIN
   BEGIN
     BLOCK "040904B0"
     BEGIN
-      VALUE "CompanyName", "Lortek S.Coop"
+      VALUE "CompanyName", ""
       VALUE "FileDescription", "Variable explorer for TwinCAT"
       VALUE "FileVersion", "2,0,0,1"
       VALUE "InternalName", "beckhexplorer"
-      VALUE "LegalCopyright", "Copyright © 2018 Lortek"
+      VALUE "LegalCopyright", ""
       VALUE "OriginalFilename", "beckhexplorer.exe"
       VALUE "ProductName", "beckhexplorer"
       VALUE "ProductVersion", "0,0,0,1"
